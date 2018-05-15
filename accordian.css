@@ -1,0 +1,43 @@
+#first{
+
+margin-top:3vw;
+
+}
+
+
+#second{
+
+margin-top:0.5vw;
+
+}
+
+#third{
+
+margin-top:0.5vw;
+
+}
+
+
+
+
+.mainDiv{
+background-color: #F7F7F7;
+height: 8vh;
+margin-right: 3vw;
+margin-left: 3vw;
+border-style: outset;
+text-align: center;
+background: linear-gradient(#CDEFE6, #9DB6D4);
+}
+
+
+
+
+.insideText{
+ margin-top:0.5vw;
+margin-right: 3vw;
+margin-left: 3vw;  
+border-style: ridge;
+text-align: center;
+color: #4B6EBC;
+}
